@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.faketrue.miscellaneous",
+    "sha256_cert_fingerprints":
+    ["83:0B:FA:7B:C9:A5:49:47:71:FD:9B:B4:7B:52:DE:E5:CC:A2:52:46:4F:E0:68:2F:77:4E:1C:63:FC:87:BA:7B"]
+  }
+}]
